@@ -1,0 +1,56 @@
+newmtl White
+Kd 1.000000 1.000000 1.000000
+
+newmtl Grey
+Kd 0.700000 0.700000 0.700000
+
+newmtl Red
+Kd 1.000000 0.000000 0.000000
+
+newmtl Green
+Kd 0.000000 1.000000 0.000000
+
+newmtl Blue
+Kd 0.000000 0.000000 1.000000
+
+newmtl Yellow
+Kd 1.000000 1.000000 0.000000
+
+newmtl Magenta
+Kd 1.000000 0.000000 1.000000
+
+newmtl Cyan
+Kd 0.000000 1.000000 1.000000
+
+newmtl DarkGreen
+Kd 0.14 0.45 0.091
+
+newmtl BloodyRed
+Kd 0.63 0.065 0.05
+
+newmtl SemiGrey
+Kd 0.725 0.71 0.68
+
+newmtl White2
+Kd 0.75 0.75 0.75
+
+newmtl Red2
+Kd 0.75 0.15 0.15
+
+newmtl Green2
+Kd 0.15 0.75 0.15
+
+newmtl Cyan2
+Kd 0.15 0.75 0.75
+
+newmtl Blue2
+Kd 0.15 0.15 0.75
+
+newmtl Silver
+Kd 0.95 0.93 0.88
+
+newmtl lightGreen
+Kd 0.4 1 0.698
+
+newmtl lightYellow
+Kd 1 0.8 0.89
